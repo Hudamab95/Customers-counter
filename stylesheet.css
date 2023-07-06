@@ -61,6 +61,6 @@ button {
 }
 
 @media not all and (min-width: 780px) {
-  container { 
+  .container { 
       margin: 10px; }
 }
