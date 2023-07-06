@@ -63,7 +63,7 @@ button {
 @media (max-width: 600px) {
   .container { 
       margin: 8px;
-      background: white;
+      opacity: 0.7;
   }
 
 }
