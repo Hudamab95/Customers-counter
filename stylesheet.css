@@ -60,9 +60,9 @@ button {
     background: #827b74;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 992ppx) {
   .container { 
-      margin: 8px;
+      margin: 7px;
       opacity: 0.8;
       background-position: center;
   }
