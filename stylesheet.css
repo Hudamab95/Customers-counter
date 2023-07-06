@@ -63,7 +63,7 @@ button {
 @media (max-width: 600px) {
   .container { 
       margin: 8px;
-      background:rgba(255,255,255, 0.9);
+      background: white;
   }
 
 }
