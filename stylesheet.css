@@ -56,3 +56,11 @@ button {
 #clear-btn {
     background: #827b74;
 }
+
+
+@media not all and (min-width: 780px) {
+  #centeredmenu {    
+    clear:both;
+    min-width: 220px;
+    margin: auto;}
+}
