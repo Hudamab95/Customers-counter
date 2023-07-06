@@ -65,5 +65,8 @@ button {
       opacity: 0.8;
   }
 #centered {
-    background-position: center;
+ background-size: cover;
+background-position: center center; 
+background-repeat: no-repeat; 
+background-attachment: fixed;
 }
