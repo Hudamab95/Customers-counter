@@ -14,7 +14,7 @@ body {
 .container {
     margin: 100px;
     padding: 10px;
-    background: white;
+    background: black;
     opacity: 0.8;
     border-radius: 5px;
     box-shadow: inset 0 5px 9px #ddd8d0;
@@ -61,10 +61,8 @@ button {
     background: #827b74;
 }
 
-@media (min-width: 780px) {
+@media (max-width: 600px) {
   .container { 
       margin: 10px; }
 
-    body {
-    background-size: 100vh;
 }
