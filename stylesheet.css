@@ -62,9 +62,9 @@ button {
 
 @media (max-width: 992ppx) {
   .container { 
-      margin: 7px;
+      margin: 8px;
       opacity: 0.8;
-      background-position: center;
   }
-
+#centered {
+    background-position: center;
 }
