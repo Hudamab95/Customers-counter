@@ -45,6 +45,7 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
+    text-shadow: 2px 2px;
 }
 
 #increment-btn {
