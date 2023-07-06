@@ -61,10 +61,7 @@ button {
 
 @media (max-width: 780px) {
   .container { 
+      margin: 2px;
       opacity: 0.8;
-     background-size: cover;
-    background-position: center center; 
-    background-repeat: no-repeat; 
-    background-attachment: fixed;
   }
 }
