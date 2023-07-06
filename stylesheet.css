@@ -63,4 +63,10 @@ button {
 @media not all and (min-width: 780px) {
   .container { 
       margin: 10px; }
+
+    body {
+background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
