@@ -60,7 +60,7 @@ button {
     background: #827b74;
 }
 
-@media (max-width: 992ppx) {
+@media (max-width: 780ppx) {
   .container { 
       margin: 8px;
       opacity: 0.8;
