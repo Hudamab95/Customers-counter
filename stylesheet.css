@@ -58,9 +58,8 @@ button {
 }
 
 
-@media not all and (min-width: 780px) {
+@media not all and (min-width: 600px) {
   #centeredmenu {    
-    clear:both;
-    min-width: 220px;
-    margin: auto;}
+ margin: 0 auto;
+  }
 }
