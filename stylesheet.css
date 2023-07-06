@@ -15,7 +15,7 @@ body {
     margin: 100px;
     padding: 10px;
     background: white;
-    opacity: 0.5;
+    opacity: 0.8;
     border-radius: 5px;
     box-shadow: inset 0 5px 9px #ddd8d0;
 
@@ -66,8 +66,5 @@ button {
       margin: 10px; }
 
     body {
-background-position: center center;
-  background-attachment: fixed;
-  background-size: cover;
-  background-repeat: no-repeat;
+    background-size: 100vh;
 }
