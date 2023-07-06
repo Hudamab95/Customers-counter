@@ -39,8 +39,6 @@ p {
 button {
     border: none;
     color: white;
-    font-weight: bold;
-    width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
     text-shadow: 2px 2px 4px #000000;
