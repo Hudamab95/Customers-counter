@@ -60,4 +60,7 @@ button {
     background: #827b74;
 }
 
-
+@media not all and (min-width: 780px) {
+  container { 
+      margin: 10px; }
+}
